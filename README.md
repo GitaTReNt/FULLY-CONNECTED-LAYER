@@ -11,3 +11,4 @@
 8.transforms.ToTensor(),  # rgb归一化
 9.优化器sche还在学习中
 10.mseloss似乎比crossentropy轻视张量一些，下次试一试
+11.不许乱用x.view函数！！！！！！！！！！！！
