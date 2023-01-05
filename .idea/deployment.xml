@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mist@gpu20.mistgpu.xyz:23201 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mist@gpu180.mistgpu.xyz:15010 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/project" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu180.mistgpu.xyz:15010 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_377" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu180.mistgpu.xyz:15010 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mistgpu/cond" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu180.mistgpu.xyz:15010 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/1010" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu180.mistgpu.xyz:15010 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_101" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu20.mistgpu.xyz:23201 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_511" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu20.mistgpu.xyz:23201 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_429" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
